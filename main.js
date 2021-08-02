@@ -18,7 +18,7 @@
  * onclick
  * 
  * Khối 3: outputs
- * Hiển thị lương nhân viên ra màn hình console
+ * Hiển thị lương nhân viên lên UI
  */
 
 function tinhLuong(){
@@ -50,7 +50,7 @@ function tinhLuong(){
  * onclick
  * 
  * Khối 3: outputs
- * Hiển thị giá trị trung bình ra màn hình console
+ * Hiển thị giá trị trung bình lên UI
  */
 
  function tinhGiatriTB(){
@@ -86,7 +86,7 @@ document.getElementById("btnTinhTB").onclick = tinhGiatriTB;
  * onclick
  * 
  * Khối 3: outputs
- * Hiển thị số tiền quy đổi VNĐ ra màn hình console
+ * Hiển thị số tiền quy đổi VNĐ lên UI
  */
 
  function quyDoitien(){
@@ -119,7 +119,7 @@ document.getElementById("btnQuydoitien").onclick = quyDoitien;
  * onclick
  * 
  * Khối 3: outputs
- * Hiển thị Diện tích & chu vi hình chữ nhật ra màn hình console
+ * Hiển thị Diện tích & chu vi hình chữ nhật lên UI
  */
 
  function tinhDientichChuvi(){
@@ -158,7 +158,7 @@ document.getElementById("tinhCVDT").onclick = tinhDientichChuvi;
  * onclick
  * 
  * Khối 3: outputs
- * Hiển thị Diện tích & chu vi hình chữ nhật ra màn hình console
+ * Hiển thị Diện tích & chu vi hình chữ nhật lên UI
  */
 
  function tinhTong2kyso(){
